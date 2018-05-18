@@ -1,0 +1,47 @@
+
+body{
+    background-color: #7ED0E2;
+    min-height: 60em;
+    padding-top: 125px;
+    padding-bottom: 30px;
+}
+
+footer{
+    background-color: #2D75DA;
+    color: yellow;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #2D75DA;
+    border-bottom-color: darkblue;
+    font-size: 16px;
+    letter-spacing: 3px;
+    font-family: "Arial",sans-serif;
+}
+
+.text-background{
+    text-align: center;
+    background-color: white;
+    border-color: darkblue;
+    border-style: solid;
+}
+
+.link{
+    font-size: 1.4em;
+    text-decoration: none;
+    color: white;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-default .navbar-toggle {
+    color: white;
+}
+.navbar li a, .navbar .navbar-brand {
+    color: yellow!important;
+}
